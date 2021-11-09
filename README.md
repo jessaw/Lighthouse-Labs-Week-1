@@ -1,1 +1,1 @@
-# Lighthouse-Labs-Week-1
+# This is my read me file for the first week
